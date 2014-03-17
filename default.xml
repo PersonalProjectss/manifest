@@ -9,7 +9,7 @@
           sync-j="4" />
 
   <project path="manifest" name="PersonalProjectss/manifest" />
-  <project path="test1" name="PersonalProjectss/build"/>
-  <project path="test2" name="PersonalProjectss/tools"/>
+  <project path="test1" name="PersonalProjectss/test1"/>
+  <project path="test2" name="PersonalProjectss/test2"/>
 </manifest>
 
